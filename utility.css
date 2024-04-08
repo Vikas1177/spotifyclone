@@ -1,0 +1,21 @@
+.invert{
+    filter: invert(1);
+}
+
+.img-class{
+    width: 25px;
+}
+
+.m-1{
+    margin: 10px 5px;
+}
+
+.p-1{
+    padding: 20px;
+}
+
+.bgcolor{
+    background-color: #121212;
+    color: white;
+    border-radius: 9px;
+}
